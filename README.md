@@ -13,11 +13,15 @@ Welcome to the Job Recommendation System project! This system utilizes natural l
 
 ## How to Use
 
-1. **Run the Application:**
+1. **Setup:**
+   - Download the file titled Combined_Jobs_Final.csv: https://www.kaggle.com/datasets/kandij/job-recommendation-datasets/data?select=Combined_Jobs_Final.csv
+   - Save it with the same filename and in the same folder as the .ipynb file. 
+
+3. **Run the Application:**
    - Execute the main script to run the job recommendation system.
 
-2. **Input Job Title:**
+4. **Input Job Title:**
    - Enter a job title already existing in the database.
 
-3. **Receive Recommendations:**
+5. **Receive Recommendations:**
    - Instantly receive a list of recommended job titles based on the input.
