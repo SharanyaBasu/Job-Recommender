@@ -13,15 +13,11 @@ Welcome to the Job Recommendation System project! This system utilizes natural l
 
 ## How to Use
 
-1. **Setup:**
-   - Clone the repository to your local machine.
-   - Ensure you have the required dependencies installed by running `pip install -r requirements.txt`.
-
-2. **Run the Application:**
+1. **Run the Application:**
    - Execute the main script to run the job recommendation system.
 
-3. **Input Job Title:**
+2. **Input Job Title:**
    - Enter a job title already existing in the database.
 
-4. **Receive Recommendations:**
+3. **Receive Recommendations:**
    - Instantly receive a list of recommended job titles based on the input.
